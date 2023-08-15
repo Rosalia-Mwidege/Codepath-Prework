@@ -32,31 +32,32 @@ GIF created with ...
 I enjoy using:
 
 Instagram
-
-You can edit posts and comments
-
-Other users are not notified when you search them up
+- You can edit posts and comments
+- Other users are not notified when you search them up
 
 
 Whatsapp
 
-It is very convenient with all options for information to be shared 
-
-Privacy option in terms of who views the status
+- It is very convenient with all options for information to be shared 
+- Privacy option in terms of who views the status
 
 
 Youtube
 
-Keeps record of what you did not finish watching, 
-
-Recommends similar videos
+- Keeps record of what you did not finish watching, 
+- Recommends similar videos
 
 
 imessage
 
-Just like whatsapp, you can even send money 
+- Just like whatsapp, you can even send money 
+- Deleting messages as soon as you send them
 
-Deleting messages as soon as you send them
+Improvement:
+
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Iplement a way to change the color of the text as well
 
 I hope to create an application where university students conducting business can share their products , ratings and connect with customers
 ## Notes
