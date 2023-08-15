@@ -30,20 +30,32 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 I enjoy using:
+
 Instagram
+
 You can edit posts and comments
+
 Other users are not notified when you search them up
 
+
 Whatsapp
+
 It is very convenient with all options for information to be shared 
+
 Privacy option in terms of who views the status
 
+
 Youtube
+
 Keeps record of what you did not finish watching, 
+
 Recommends similar videos
 
+
 imessage
+
 Just like whatsapp, you can even send money 
+
 Deleting messages as soon as you send them
 
 I hope to create an application where university students conducting business can share their products , ratings and connect with customers
@@ -51,7 +63,7 @@ I hope to create an application where university students conducting business ca
 
 Describe any challenges encountered while building the app.
 
-Using Xcode and github for the first time was quite challenging but I understood how to use it through the videos.
+Using Xcode and Github for the first time was quite challenging but I understood how to use it through the videos.
 
 ## License
 
